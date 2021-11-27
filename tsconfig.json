@@ -8,8 +8,8 @@
     "lib": ["es2017"],
     "moduleResolution": "node",
     "noEmit": true,
-    "strict": true,
-    "target": "esnext"
+    "strict": false,
+    "target": "esnext",
   },
   "exclude": [
     "node_modules",
